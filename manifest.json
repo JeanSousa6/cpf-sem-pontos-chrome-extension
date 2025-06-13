@@ -12,7 +12,9 @@
   "icons": {
     "128": "source/cpf-logo2.png"
   },
-  "permissions": [
-    "activeTab"
-  ]
+  "permissions": [],
+  "host_permissions": [],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  }
 }
