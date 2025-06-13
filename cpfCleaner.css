@@ -13,7 +13,7 @@ body {
 
 .container {
   background-color: #fff;
-  border: 5px solid #1c441d;
+  border: 5px solid #3628A0;
   border-radius: 15px;
   padding: 40px;
   text-align: center;
@@ -77,7 +77,7 @@ h1 {
 
 .btn {
   flex: 1;
-  background-color: #2e582e;
+  background-color: #3628A0;
   color: white;
   font-weight: bold;
   border: none;
@@ -88,14 +88,14 @@ h1 {
 }
 
 .btn:hover {
-  background-color: #3c703c;
+  background-color: #3628A0;
 }
 
 #toast {
   visibility: hidden;
   min-width: 120px;
   max-width: 90vw;
-  background: #2ecc40;
+  background: #3628A0;
   color: #fff;
   text-align: center;
   border-radius: 8px;

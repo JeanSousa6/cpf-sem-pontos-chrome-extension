@@ -52,7 +52,7 @@ function retornoResultado(){
         resultado.style.display = "block";
         if (valido) {
             resultado.textContent = cpfSemPontuacao;
-            resultado.style.color = "green";
+            resultado.style.color = "#3628A0";
         } else {
             resultado.textContent = "CPF Inválido";
             resultado.style.color = "red";
