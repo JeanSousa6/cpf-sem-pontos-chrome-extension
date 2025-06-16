@@ -4,7 +4,7 @@
   "version": "1.0",
   "description": "Uma extensão para limpar CPF.",
   "action": {
-    "default_popup": "CPFCleaner.html",
+    "default_popup": "cpfCleaner.html",
     "default_icon": {
       "128": "source/cpf-logo2.png"
     }
