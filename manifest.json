@@ -13,8 +13,12 @@
     "128": "source/cpf-logo2.png"
   },
   "permissions": [],
-  "host_permissions": [],
   "content_security_policy": {
     "extension_pages": "script-src 'self'; object-src 'self'"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "cpfc-cleaner@extensao"
+    }
   }
 }
