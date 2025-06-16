@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "CPFCleaner",
-  "version": "1.0",
+  "version": "2.0",
   "description": "Uma extensão para limpar CPF.",
   "action": {
     "default_popup": "cpfCleaner.html",
